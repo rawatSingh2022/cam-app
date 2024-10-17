@@ -1,0 +1,173 @@
+{
+  "0": "{",
+  "1": "\n",
+  "2": " ",
+  "3": " ",
+  "4": "\"",
+  "5": "a",
+  "6": "c",
+  "7": "t",
+  "8": "i",
+  "9": "v",
+  "10": "e",
+  "11": "A",
+  "12": "g",
+  "13": "e",
+  "14": "n",
+  "15": "t",
+  "16": "\"",
+  "17": ":",
+  "18": " ",
+  "19": "f",
+  "20": "a",
+  "21": "l",
+  "22": "s",
+  "23": "e",
+  "24": ",",
+  "25": "\n",
+  "26": " ",
+  "27": " ",
+  "28": "\"",
+  "29": "p",
+  "30": "i",
+  "31": "n",
+  "32": "n",
+  "33": "e",
+  "34": "d",
+  "35": "A",
+  "36": "g",
+  "37": "e",
+  "38": "n",
+  "39": "t",
+  "40": "\"",
+  "41": ":",
+  "42": " ",
+  "43": "[",
+  "44": "]",
+  "45": "\n",
+  "46": "}",
+  "currentLayout": {
+    "grid": {
+      "root": {
+        "type": "branch",
+        "data": [
+          {
+            "type": "leaf",
+            "data": {
+              "views": [
+                "Code",
+                "Console-0.09334598946525863",
+                "Console-0.6809579633246394",
+                "Console-0.8553183540948281",
+                "Console-0.6800684755392847",
+                "Console-0.00021606165820564627",
+                "ProjectSettings",
+                "Terminal-1729169221446"
+              ],
+              "activeView": "Terminal-1729169221446",
+              "id": "1"
+            },
+            "size": 735
+          },
+          {
+            "type": "branch",
+            "data": [
+              {
+                "type": "leaf",
+                "data": {
+                  "views": [
+                    "Chat"
+                  ],
+                  "activeView": "Chat",
+                  "id": "2"
+                },
+                "size": 430
+              },
+              {
+                "type": "leaf",
+                "data": {
+                  "views": [
+                    "Preview",
+                    "Console"
+                  ],
+                  "activeView": "Console",
+                  "id": "3"
+                },
+                "size": 430
+              }
+            ],
+            "size": 735
+          }
+        ],
+        "size": 860
+      },
+      "width": 1470,
+      "height": 860,
+      "orientation": "HORIZONTAL"
+    },
+    "panels": {
+      "Code": {
+        "id": "Code",
+        "contentComponent": "Code",
+        "title": "Code",
+        "renderer": "always"
+      },
+      "Console-0.09334598946525863": {
+        "id": "Console-0.09334598946525863",
+        "contentComponent": "Console",
+        "title": "Console"
+      },
+      "Console-0.6809579633246394": {
+        "id": "Console-0.6809579633246394",
+        "contentComponent": "Console",
+        "title": "Console"
+      },
+      "Console-0.8553183540948281": {
+        "id": "Console-0.8553183540948281",
+        "contentComponent": "Console",
+        "title": "Console"
+      },
+      "Console-0.6800684755392847": {
+        "id": "Console-0.6800684755392847",
+        "contentComponent": "Console",
+        "title": "Console"
+      },
+      "Console-0.00021606165820564627": {
+        "id": "Console-0.00021606165820564627",
+        "contentComponent": "Console",
+        "title": "Console"
+      },
+      "ProjectSettings": {
+        "id": "ProjectSettings",
+        "contentComponent": "ProjectSettings",
+        "title": "ProjectSettings"
+      },
+      "Terminal-1729169221446": {
+        "id": "Terminal-1729169221446",
+        "contentComponent": "Terminal",
+        "title": "Terminal",
+        "renderer": "always"
+      },
+      "Chat": {
+        "id": "Chat",
+        "contentComponent": "Chat",
+        "title": "Chat",
+        "renderer": "always"
+      },
+      "Preview": {
+        "id": "Preview",
+        "contentComponent": "Preview",
+        "title": "Preview",
+        "renderer": "always"
+      },
+      "Console": {
+        "id": "Console",
+        "contentComponent": "Console",
+        "title": "Console"
+      }
+    },
+    "activeGroup": "1"
+  },
+  "activeAgent": false,
+  "pinnedAgent": []
+}
