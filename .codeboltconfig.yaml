@@ -2,7 +2,7 @@ appName: idurar-erp-crm
 appUniqueId: ravi/idurar-erp-crm
 appInfo:
   description: this is crm app
-  appVersion: ''
+  appVersion: '1.0.0'
   appRepoUrl: https://github.com/rawatSingh2022/cam-app.git
   appIconUrl: ''
   appAuthorUserId: ravi
